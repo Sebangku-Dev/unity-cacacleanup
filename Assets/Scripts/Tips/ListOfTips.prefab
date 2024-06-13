@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8535239155723845031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5693726150697324103}
+  - component: {fileID: 8140921741351868504}
+  m_Layer: 0
+  m_Name: ListOfTips
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5693726150697324103
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8535239155723845031}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8140921741351868504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8535239155723845031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed2c2e1e5eb673048b76078b1dabd216, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  listOfTips:
+  - id: '#1'
+    text: Cuci tanganmu dengan sabun setiap sebelum dan sesudah makan!
+    illustration: {fileID: 0}
+  - id: '#2'
+    text: Jangan lupa menyikat gigi dua kali sehari untuk menjaga senyuman yang cerah.
+    illustration: {fileID: 0}
+  - id: '#3'
+    text: Ketika kamu selesai menggunakan mainan, pastikan untuk membersihkannya
+      dan menyimpannya dengan rapi.
+    illustration: {fileID: 0}
+  - id: '#4'
+    text: Buang sampah pada tempatnya agar lingkungan tetap bersih dan indah.
+    illustration: {fileID: 0}
+  - id: '#5'
+    text: Menjaga kebersihan rumah adalah tanggung jawab kita semua. Mari bersama-sama
+      membersihkannya!
+    illustration: {fileID: 0}
+  - id: '#6'
+    text: Air adalah sumber kehidupan. Jangan buang sampah ke sungai atau laut.
+    illustration: {fileID: 0}
+  - id: '#7'
+    text: Pisahkan sampah organik dan sampah non-organik agar bisa didaur ulang dan
+      digunakan kembali.
+    illustration: {fileID: 0}
+  - id: '#8'
+    text: Gunakan kantong belanja kain atau tas jinjing saat berbelanja untuk mengurangi
+      penggunaan plastik.
+    illustration: {fileID: 0}
+  - id: '#9'
+    text: Jangan buang makanan yang masih baik. Bagikan kepada yang membutuhkan atau
+      simpan untuk dimakan nanti.
+    illustration: {fileID: 0}
+  - id: '#10'
+    text: Bersihkan meja dan tempat makanmu setelah selesai makan untuk mencegah
+      penyebaran kuman.
+    illustration: {fileID: 0}
+  - id: '#11'
+    text: Rajin menyapu dan menyuci lantai agar rumah tetap bersih dan nyaman.
+    illustration: {fileID: 0}
+  - id: '#12'
+    text: Menggantungkan pakaian yang kering di tempat yang terbuka bisa menghemat
+      energi dan menjaga kebersihan.
+    illustration: {fileID: 0}
+  - id: '#13'
+    text: Bersihkan kandang peliharaanmu secara teratur agar hewan peliharaanmu tetap
+      sehat dan nyaman.
+    illustration: {fileID: 0}
+  - id: '#14'
+    text: Menyiram tanaman dengan air secukupnya bisa membantu menjaga lingkungan
+      tetap hijau dan sejuk.
+    illustration: {fileID: 0}
+  - id: '#15'
+    text: Gunakan botol minum yang bisa diisi ulang daripada botol air minum sekali
+      pakai.
+    illustration: {fileID: 0}
+  - id: '#16'
+    text: Tutup keran air saat sedang tidak digunakan untuk menghemat air.
+    illustration: {fileID: 0}
+  - id: '#17'
+    text: Buang tisu dan kain bekas yang digunakan dengan benar agar tidak menyebar
+      penyakit.
+    illustration: {fileID: 0}
+  - id: '#18'
+    text: Memotong kuku secara teratur adalah bagian dari menjaga kebersihan diri.
+    illustration: {fileID: 0}
+  - id: '#19'
+    text: Kertas dan kardus bisa didaur ulang menjadi kertas baru. Jangan buang begitu
+      saja!
+    illustration: {fileID: 0}
+  - id: '#20'
+    text: Jangan membuang sampah dari mobil saat sedang berkendara. Simpanlah sampahmu
+      hingga menemukan tempat sampah yang sesuai.
+    illustration: {fileID: 0}
+  - id: '#21'
+    text: Makan makanan yang sehat dan bergizi membantu menjaga tubuh kita tetap
+      kuat dan sehat.
+    illustration: {fileID: 0}
+  - id: '#22'
+    text: Ajak teman-temanmu untuk membersihkan taman atau area bermain agar kita
+      bisa bermain dengan aman.
+    illustration: {fileID: 0}
+  - id: '#23'
+    text: Menyiram pohon di sore hari bisa membantu pohon tumbuh dengan baik dan
+      sehat.
+    illustration: {fileID: 0}
+  - id: '#24'
+    text: Menggunakan produk ramah lingkungan seperti deterjen dan sabun bisa membantu
+      menjaga lingkungan.
+    illustration: {fileID: 0}
+  - id: '#25'
+    text: Jangan biarkan baterai bekas berserakan. Kumpulkan dan daur ulang agar
+      tidak mencemari lingkungan.
+    illustration: {fileID: 0}
